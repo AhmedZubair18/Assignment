@@ -1,0 +1,182 @@
+.header{
+    width: 1350px;
+    height: 600px;
+    background-color:darkorange;
+}
+.heading{
+    position: relative;
+   left: 400px;
+  top: 250px;
+  font-size:70px
+}
+.paragraph{
+    position: relative;
+    left: 575px;
+    top: 250px;
+}
+.btn-primary{
+    position: relative;
+    top: 250px;
+    left: 560px;
+}
+.heading-1{
+    position: relative;
+    left: 180px;
+    top: 100px;
+}
+.paragraph-1{
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+.btn-dark{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    position: relative;
+    left: 600px;
+    top: 150px;
+}
+.header-1{
+    background-color:darkturquoise;
+    width: 1350px;
+    height: 550px;
+    position: relative;
+    top: 200px;
+}
+.heading-2{
+    position: relative;
+    left: 600px;
+    top: 100px;
+    font-size: small;
+    color: yellow;
+}
+.heading-3{
+    position: relative;
+    left: 500px;
+    top: 100px;
+    color: white;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color:white;
+    border: 2px solid white;
+    border-radius: 170px;
+    position: relative;
+   left: 200px;
+   top: 120px;
+}
+.fa-mobile{
+    position: relative;
+    left: 240px;
+    top: 55px;
+    width: 100vh;
+    
+}
+.heading-4{
+    position: relative;
+    top: 120px;
+    left: 195px;
+    color: white ;
+    font-size: larger;
+    bottom: 30px;
+}
+.paragraph-2{
+    position: relative;
+    top: 120px;
+    left: 140px;
+    color: white;
+}
+.circle-1{
+    width: 100px;
+    height: 100px;
+    background-color:white;
+    border: 2px solid white;
+    border-radius: 170px;
+    position: relative;
+   left:470px;
+   bottom: 150px;
+}
+.fa-pencil{
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+.heading-5{
+    position: relative;
+    top: 100px;
+    right: 50px;
+    color: white;
+    font-size: larger;
+   left: 2px;
+}
+.paragraph-4{
+    position: relative;
+    bottom: 95px;
+    left: 390px;
+    color: white;
+}
+.circle-2{
+    width: 100px;
+    height: 100px;
+    background-color:white;
+    border: 2px solid white;
+    border-radius: 170px;
+    position: relative;
+   left: 730px;
+   bottom: 285px;
+}
+.fa-thumbs-up{
+    position: relative;
+    left: 770px;
+    bottom: 350px;
+}
+.heading-6{
+    position: relative;
+    left: 730px;
+    bottom: 290px;
+    color: white;
+    font-size: larger;
+}
+.paragraph-5{
+    position: relative;
+    left: 670px;
+    bottom: 290px;
+    color: white;
+   
+}
+.circle-3{
+    width: 100px;
+    height: 100px;
+    background-color:white;
+    border: 2px solid white;
+    border-radius: 170px;
+    position: relative;
+    left: 1000px;
+    bottom: 480px;
+}
+.Icon-4{
+   width: 50px;
+   position: relative;
+   left: 1025px;
+   bottom: 555px;
+}
+.heading-7{
+    position: relative;
+    left: 1010px;
+    bottom: 505px;
+    color: white;
+    font-size: larger;
+}
+.paragraph-6{
+    position: relative;
+    left: 970px;
+    bottom: 510px;
+    color: white;
+}
+@media only screen and (min width:200px){
+    body
+}
+    
