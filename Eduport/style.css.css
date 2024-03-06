@@ -1,0 +1,736 @@
+/* .box1 {
+    width: 400px;
+    height: 350px;
+    background-color: #fff;
+    box-shadow: 3px 3px 4px 4px;
+    position: relative;
+    left: 700px;
+    top: 130px;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+
+.email {
+    width: 370px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.passward {
+    width: 370px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.forgotten {
+    color: blue;
+    position: relative;
+    left: 120px;
+}
+
+
+
+button {
+    width: 370px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 15px;
+    background-color: #4267b2;
+}
+
+.two {
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    position: relative;
+    right: -80px !important;
+    background-color: green !important;
+
+}
+
+
+
+.logo {
+    position: relative;
+    bottom: 320px;
+    left: 80px;
+    width: 250px;
+    height: 100px;
+}
+
+
+
+body{
+    background-color: antiquewhite;
+    width: 300px;
+    height: 200px;
+
+}
+.paragraph{
+   position: relative;
+   bottom: 320px;
+   left: 80px;
+   width: 250px;
+   height: 100px;
+}
+@media only screen and (max-width:500px){}
+body
+width: 100%;
+} */
+
+ /* Eduport Website */
+
+.header{
+    background-color:white;
+    width: 1350px;
+    height: 100px;
+}
+.icons{
+    color: blue;
+    padding: 30px ;
+    position: relative;
+    left: 450px;
+   bottom: 80px;
+    word-spacing: 25px;
+}
+.logo{
+    width: 150px;
+    height: 60px;
+    position: relative;
+    bottom: 150px;
+    left: 50px;
+}
+.fa-circle{
+    color: pink;
+    padding: 10px solid;
+}
+.logo-2{
+    width: 40px;
+    border-radius: 100px;
+    position: relative;
+    left: 1250px;
+    bottom: 225px;
+}
+
+.search{
+    position: relative;
+    left: 1030px;
+    bottom:190px;
+    border: white;
+}
+.fa-solid{
+    position: relative;
+    right: 25px;
+}
+.heading{
+    font-size: 60px;
+    font-weight: 100px;
+    position: relative;
+    left: 90px;
+    word-spacing: 8px;
+    bottom: 100px;
+}
+.logo-1{
+    position: relative;
+    left: 700px;
+    bottom: 430px;
+    width: 600px;
+}
+
+.dropdown{
+    position: relative;
+    bottom: 1015px;
+    left: 230px;
+}
+.paragraph{
+    font-size: large;
+    position: relative;
+    bottom: 80px;
+    left: 90px;
+}
+.paragraph-1{
+    position: relative;
+    bottom: 630px;
+    left: 90px;
+}
+.paragraph-2{
+    position: relative;
+    bottom: 670px;
+    left: 235px;
+}
+.paragraph-3{
+    position: relative;
+    bottom: 710px;
+    left: 350px;
+}
+.btn-danger{
+    position: relative;
+    bottom: 705px;
+    left: 90px;
+    background-color: lightpink;
+    border-color:lightpink;
+    color:red;
+}
+.fa-circle-play{
+    position: relative;
+    bottom: 700px;
+    left: 100px;
+    font-size:30px;
+    color: blue;
+}
+.Watch{
+    position: relative;
+    bottom: 740px;
+    left: 250px;
+}
+.one{
+    width: 250px;
+    height: 120px;
+    background-color:lightpink;
+    position: relative;
+    bottom: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    }
+.two{
+    width: 250px;
+    height: 120px;
+    background-color:lightblue;
+    position: relative;
+    left: 300px;
+    bottom: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.three{
+    width: 250px;
+    height: 120px;
+    background-color:lightslategray;
+    position: relative;
+    left: 600px;
+    bottom: 840px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.four{
+    width: 250px;
+    height: 120px;
+    background-color:lightseagreen;
+    position: relative;
+    left: 900px;
+    bottom:960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.heading-1{
+    position: relative;
+    left: 450px;
+    bottom: 900px;
+    font-size: 50px;
+}
+.paragraph-4{
+    position: relative;
+    left: 480px;
+    bottom: 900px;
+}
+.header-1{
+    width: 1200px;
+    height: 70px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: lightblue;
+    position: relative;
+    left: 80px;
+    bottom: 900px
+}
+.Web-Design{
+    color: blue;
+   position: relative;
+   left: 80px;
+   text-decoration: none;
+   top: 20px;
+}
+.Development{
+color: blue;
+position: relative;
+left: 200px;
+text-decoration: none;
+top: 20px;
+}
+.Graphic{
+    color: blue;
+    position: relative;
+    left: 315px;
+    text-decoration: none;
+    top: 20px;
+}
+.Marketing{
+    color: blue;
+    position: relative;
+    left: 450px;
+    text-decoration: none;
+    top: 20px;
+}
+.Finance{
+    color: blue;
+    position: relative;
+    left: 590px;
+    text-decoration: none;
+    top: 20px;
+}
+.card1{
+    position: relative;
+    bottom: 845px;
+    left: 80px;
+    width: 100px;
+}
+.card-title:hover{
+    color: blue;
+}
+.card-title{
+    text-decoration: none;
+    font-weight: bold;
+}
+.card-2{
+    position: relative;
+    left: 400px;
+    bottom: 1190px;
+
+}
+.card-3{
+    position: relative;
+    left: 710px;
+    bottom: 1535px;
+}
+.card-4{
+    position: relative;
+    left: 1020px;
+    bottom: 1880px;
+}
+.card-5{
+    position: relative;
+    bottom: 1850px;
+    left: 80px;
+}
+.card-6{
+    position: relative;
+    bottom: 2200px;
+    left: 400px;
+}
+.card-7{
+    position: relative;
+    bottom: 2540px;
+    left: 715px;
+}
+.card-8{
+    position: relative;
+    bottom: 2860px;
+    left: 1020px;
+}
+
+.header-3{
+    width: 1100px;
+    height: 200px;
+    background-color: lightseagreen;
+    position: relative;
+    bottom: 2800px;
+    left: 130px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.header-h{
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+.header-p{
+    color: white;
+    position: relative;
+    top: 10px;
+    height: 100px;
+    padding: 20px;
+    left: 80px;
+}
+.btn-outline-warning{
+    position: relative;
+    left: 900px;
+    bottom: 80px;
+}
+.heading-2{
+    position: relative;
+    left:450px;
+    bottom: 2750px;
+}
+.card-9{
+    position: relative;
+    bottom: 2700px;
+    left: 120px;
+}
+.card-10{
+    position: relative;
+    bottom: 3030px;
+    left: 490px;
+}
+.card-11{
+    position: relative;
+    bottom: 3360px;
+    left: 870px;
+}
+.header-4{
+    width: 1350px;
+    height: 800px;
+    background-color:whitesmoke;
+    position: relative;
+    bottom: 3250px;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border: 2px white;
+    border-radius: 400px;
+    background-color:violet;
+    position: relative;
+    top: 50px;
+}
+.header-5{
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    border: 1px white;
+    border-radius: 10px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+.logo-3{
+width: 70px;
+border-radius: 50px;
+position: relative;
+left: 240px;
+bottom: 330px;
+}
+.paragraph-5{
+    position: relative;
+    top: 120px;
+    left: 10px;
+    word-spacing: 5px;
+}
+.heading-3{
+    position: relative;
+    font-size: smaller;
+    top: 140px;
+    left: 130px;
+}
+.header-6{
+    width: 200px;
+    height: 250px;
+    background-color:white;
+    position: relative;
+    bottom: 4050px;
+    left: 500px;
+    border-radius: 10px;
+}
+.heading-4{
+    font-size: small;
+    position: relative;
+    left: 35px;
+    top: 20px;
+}
+.logo-12{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 35px;
+    left: 30px;
+    border-radius: 5px;
+}
+.heading-5{
+    position: relative;
+    left: 90px;
+    bottom: 10px;
+}
+.paragraph-6{
+    position: relative;
+    left: 90px;
+    bottom: 15px;
+    font-size: small; 
+}
+.logo-13{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    position: relative;
+    left: 31px;
+   bottom: 5px;
+}
+.heading-6{
+    position: relative;
+    left: 90px;
+    bottom: 50px;
+}
+.paragraph-7{
+    font-size: small;
+    position: relative;
+    left: 85px;
+    bottom: 55px;
+}
+.logo-14{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 53px;
+    left: 30px;
+}
+.heading-7{
+    position: relative;
+    bottom: 105px;
+    left: 90px;
+}
+.paragraph-8{
+    position: relative;
+    bottom: 110px;
+    font-size: small;
+    left: 83px;
+}
+.header-7{
+    width: 220px;
+    height: 300px;
+    background-color:white;
+    position: relative;
+    bottom: 4000px;
+    left: 510px;
+    border-radius: 10px;
+}
+.logo-15{
+    width: 100px;
+    border-radius: 100px;
+    position: relative;
+    left: 55px;
+    top: 20px;
+}
+.paragraph-9{
+    position: relative;
+    left: 15px;
+    top: 30px;
+}
+.heading-8{
+    position: relative;
+    font-size: large;
+    top: 30px;
+    left: 50px;
+}
+.header-8{
+    position: relative;
+    bottom: 4500px;
+    left: 800px;
+}
+.heading-9{
+    font-size: 50px;
+}
+.header-9{
+    background-color:wheat;
+    width: 1350px;
+    height: 400px;
+    position: relative;
+    bottom: 4200px;
+}
+.logo-16{
+    width: 250px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.paragraph-11{
+    position: relative;
+    top: 70px;
+    left: 100px;
+}
+.heading-10{
+    position: relative;
+    left: 430px;
+    bottom: 120px;
+    font-size: x-large;
+}
+.about{
+    color:gray;
+    text-decoration: none;
+    position: relative;
+    left: 435px;
+    bottom: 100px;
+}
+.about:hover{
+    color: blue;
+}
+.Contact{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 365px;
+    bottom: 60px;
+}
+.Contact:hover{
+    color: blue;
+    
+}
+.News{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 285px;
+    bottom: 20px;
+}
+.News:hover{
+    color: blue;
+}
+.Library{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 168px;
+    top: 20px;
+}
+.Library:hover{
+    color: blue;
+}
+.career{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 115px;
+    top: 60px;
+}
+.career:hover{
+    color: blue;
+}
+.heading-11{
+    font-size: x-large;
+    position: relative;
+    left: 630px;
+    bottom: 180px;
+}
+.Docu{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 630px;
+    bottom: 165px;
+}
+.Docu:hover{
+    color: blue;
+}
+.faq{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 518px;
+    bottom: 125px;
+}
+.faq:hover{
+    color: blue;
+}
+.forum{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 485px;
+    bottom: 80px;
+}
+.forum:hover{
+    color: blue;
+}
+.sitemap{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 433px;
+    bottom: 38px;
+}
+.sitemap:hover{
+    color: blue;
+}
+.teaching{
+    font-size: x-large;
+    position: relative;
+    left: 830px;
+    bottom: 240px;
+}
+.become{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 830px;
+    bottom: 226px;
+}
+.become:hover{
+    color: blue;
+}
+.how{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 700px;
+    bottom: 185px;
+}
+.how:hover{
+    color: blue;
+}
+.terms{
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: 598px;
+    bottom: 138px;
+}
+.terms:hover{
+    color: blue;
+}
+.contact{
+    font-size: x-large;
+    position: relative;
+    left: 1020px;
+    bottom: 300px;
+}
+.paragraph-12{
+    position: relative;
+    left: 1020px;
+    bottom: 290px;
+    color: gray;
+}
+.paragraph-13{
+    color: gray;
+    position: relative;
+    bottom: 300px;
+    left: 1020px;
+}
+.google{
+    width: 150px;
+    position: relative;
+    left: 1020px;
+    bottom: 300px;
+}
+.app{
+    position: relative;
+    left: 1028px;
+    width: 150px;
+    bottom: 300px;
+}
+@media only screen and(max-width:560px){
+    *
+        {
+            width: 100%;
+        }
+    
+}
